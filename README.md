@@ -112,3 +112,12 @@ The proposed test was developed with Python and its estándar library, Using Cam
 
 
 ###### The program can be executed in the console with the command python main.py or in the execution button of the IDE that is being worked on, in the case of unit tests use the command pytest test/test_main.py
+
+
+### 7	- Results.
+
+###### look at this results
+
+![](https://github.com/jefvasquezg/acme/blob/master/images/21.jpeg)
+![](https://github.com/jefvasquezg/acme/blob/master/images/22.jpeg)
+
