@@ -2,6 +2,8 @@
 
 The proposed test was developed with Python and its estándar library, Using Camel Case notation also I did trying to use the pattern chain of responsibility however the algorithm was short the implementation have some limits.
 
+![](https://github.com/jefvasquezg/acme/blob/master/images/20.png)
+
 # The Project contains the following folders:
 
 ### 1 Constant  - it has 3 files:
@@ -110,3 +112,12 @@ The proposed test was developed with Python and its estándar library, Using Cam
 
 
 ###### The program can be executed in the console with the command python main.py or in the execution button of the IDE that is being worked on, in the case of unit tests use the command pytest test/test_main.py
+
+
+### 7	- Results.
+
+###### look at this results
+
+![](https://github.com/jefvasquezg/acme/blob/master/images/21.jpeg)
+![](https://github.com/jefvasquezg/acme/blob/master/images/22.jpeg)
+
