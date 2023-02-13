@@ -1,6 +1,6 @@
 # Hi team IOET.
 
-The proposed test was developed with Python and its estándar library, Using Camel Case notation also I did trying to use the pattern chain of responsability however the algorithm was short the implementation have some limits.
+The proposed test was developed with Python and its estándar library, Using Camel Case notation also I did trying to use the pattern chain of responsibility however the algorithm was short the implementation have some limits.
 
 # The Project contains the following folders:
 
