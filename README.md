@@ -109,4 +109,4 @@ The proposed test was developed with Python and its estándar library, Using Cam
 ###6	- Execution of the program and the unit tests.
 
 
-######The program can be executed in the console with the command python main.py or in the execution button of the IDE that is being worked on, in the case of unit tests use the command pytest test/test_main.py
+######The program can be executed in the console with the command python main.py or in the execution button of the IDE that is being worked on, in the case of unit tests use the command pytest test/test_main.py.
